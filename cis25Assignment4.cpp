@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-// Create a program that shows a menu
-// Shows the menu, but loops too many times.
+
 void showMenu() {
 	int option;
 	cout << "1. Add\n\n2. View\n\n3. Exit\n\n";
